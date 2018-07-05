@@ -1,0 +1,27 @@
+Neural networks made easy: https://techcrunch.com/2017/04/13/neural-networks-made-easy/
+
+Neural N/W play area: http://playground.tensorflow.org/
+
+Deep Learning: https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
+
+real life : https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html
+
+Data Leakage: https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
+
+Leakage in Data Mining: http://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf
+
+Data Leakage Example: https://www.kaggle.com/c/the-icml-2013-whale-challenge-right-whale-redux/discussion/4865#25839#post25839
+
+ML Rules for Software Engineers: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
+Un-SuperVised Machine learning
+
+How to Use t-SNE Effectively - http://distill.pub/2016/misread-tsne/#citation
+
+How Machines Make Sense of Big Data: an Introduction to Clustering Algorithms: https://medium.freecodecamp.com/how-machines-make-sense-of-big-data-an-introduction-to-clustering-algorithms-4bd97d4fbaba
+
+
+comparison between Supervised Learning Algorithm: https://www.dataschool.io/comparing-supervised-learning-algorithms/
+
+
+
